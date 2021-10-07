@@ -1,0 +1,35 @@
+D:\Universidad\Programacion\Estructuras II\DixonCruzBlandon\DixonCruzBlandon\bin\Debug\DixonCruzBlandon.exe.config
+D:\Universidad\Programacion\Estructuras II\DixonCruzBlandon\DixonCruzBlandon\bin\Debug\DixonCruzBlandon.exe
+D:\Universidad\Programacion\Estructuras II\DixonCruzBlandon\DixonCruzBlandon\bin\Debug\DixonCruzBlandon.pdb
+D:\Universidad\Programacion\Estructuras II\DixonCruzBlandon\DixonCruzBlandon\obj\Debug\DixonCruzBlandon.csproj.AssemblyReference.cache
+D:\Universidad\Programacion\Estructuras II\DixonCruzBlandon\DixonCruzBlandon\obj\Debug\DixonCruzBlandon.Form1.resources
+D:\Universidad\Programacion\Estructuras II\DixonCruzBlandon\DixonCruzBlandon\obj\Debug\DixonCruzBlandon.Properties.Resources.resources
+D:\Universidad\Programacion\Estructuras II\DixonCruzBlandon\DixonCruzBlandon\obj\Debug\DixonCruzBlandon.csproj.GenerateResource.cache
+D:\Universidad\Programacion\Estructuras II\DixonCruzBlandon\DixonCruzBlandon\obj\Debug\DixonCruzBlandon.csproj.CoreCompileInputs.cache
+D:\Universidad\Programacion\Estructuras II\DixonCruzBlandon\DixonCruzBlandon\obj\Debug\DixonCruzBlandon.exe
+D:\Universidad\Programacion\Estructuras II\DixonCruzBlandon\DixonCruzBlandon\obj\Debug\DixonCruzBlandon.pdb
+D:\Universidad\Programacion\Estructuras II\DixonCruzBlandon\DixonCruzBlandon\obj\Debug\DixonCruzBlandon.Mezcla_Directa.resources
+E:\Universidad\Programacion\Estructuras II\DixonCruzBlandon\DixonCruzBlandon\bin\Debug\DixonCruzBlandon.exe.config
+E:\Universidad\Programacion\Estructuras II\DixonCruzBlandon\DixonCruzBlandon\bin\Debug\DixonCruzBlandon.exe
+E:\Universidad\Programacion\Estructuras II\DixonCruzBlandon\DixonCruzBlandon\bin\Debug\DixonCruzBlandon.pdb
+E:\Universidad\Programacion\Estructuras II\DixonCruzBlandon\DixonCruzBlandon\obj\Debug\DixonCruzBlandon.csproj.AssemblyReference.cache
+E:\Universidad\Programacion\Estructuras II\DixonCruzBlandon\DixonCruzBlandon\obj\Debug\DixonCruzBlandon.Form1.resources
+E:\Universidad\Programacion\Estructuras II\DixonCruzBlandon\DixonCruzBlandon\obj\Debug\DixonCruzBlandon.Mezcla_Directa.resources
+E:\Universidad\Programacion\Estructuras II\DixonCruzBlandon\DixonCruzBlandon\obj\Debug\DixonCruzBlandon.Properties.Resources.resources
+E:\Universidad\Programacion\Estructuras II\DixonCruzBlandon\DixonCruzBlandon\obj\Debug\DixonCruzBlandon.csproj.GenerateResource.cache
+E:\Universidad\Programacion\Estructuras II\DixonCruzBlandon\DixonCruzBlandon\obj\Debug\DixonCruzBlandon.csproj.CoreCompileInputs.cache
+E:\Universidad\Programacion\Estructuras II\DixonCruzBlandon\DixonCruzBlandon\obj\Debug\DixonCruzBlandon.exe
+E:\Universidad\Programacion\Estructuras II\DixonCruzBlandon\DixonCruzBlandon\obj\Debug\DixonCruzBlandon.pdb
+C:\Users\Dixon Blandon\Desktop\Universidad\Estructuras II\DixonCruzBlandon\DixonCruzBlandon\bin\Debug\DixonCruzBlandon.exe.config
+C:\Users\Dixon Blandon\Desktop\Universidad\Estructuras II\DixonCruzBlandon\DixonCruzBlandon\bin\Debug\DixonCruzBlandon.exe
+C:\Users\Dixon Blandon\Desktop\Universidad\Estructuras II\DixonCruzBlandon\DixonCruzBlandon\bin\Debug\DixonCruzBlandon.pdb
+C:\Users\Dixon Blandon\Desktop\Universidad\Estructuras II\DixonCruzBlandon\DixonCruzBlandon\obj\Debug\DixonCruzBlandon.csproj.AssemblyReference.cache
+C:\Users\Dixon Blandon\Desktop\Universidad\Estructuras II\DixonCruzBlandon\DixonCruzBlandon\obj\Debug\DixonCruzBlandon.Form1.resources
+C:\Users\Dixon Blandon\Desktop\Universidad\Estructuras II\DixonCruzBlandon\DixonCruzBlandon\obj\Debug\DixonCruzBlandon.Intercalacion_de_archivos.resources
+C:\Users\Dixon Blandon\Desktop\Universidad\Estructuras II\DixonCruzBlandon\DixonCruzBlandon\obj\Debug\DixonCruzBlandon.Mezcla_Directa.resources
+C:\Users\Dixon Blandon\Desktop\Universidad\Estructuras II\DixonCruzBlandon\DixonCruzBlandon\obj\Debug\DixonCruzBlandon.Properties.Resources.resources
+C:\Users\Dixon Blandon\Desktop\Universidad\Estructuras II\DixonCruzBlandon\DixonCruzBlandon\obj\Debug\DixonCruzBlandon.csproj.GenerateResource.cache
+C:\Users\Dixon Blandon\Desktop\Universidad\Estructuras II\DixonCruzBlandon\DixonCruzBlandon\obj\Debug\DixonCruzBlandon.csproj.CoreCompileInputs.cache
+C:\Users\Dixon Blandon\Desktop\Universidad\Estructuras II\DixonCruzBlandon\DixonCruzBlandon\obj\Debug\DixonCruzBlandon.exe
+C:\Users\Dixon Blandon\Desktop\Universidad\Estructuras II\DixonCruzBlandon\DixonCruzBlandon\obj\Debug\DixonCruzBlandon.pdb
+C:\Users\Dixon Blandon\Desktop\Universidad\Estructuras II\DixonCruzBlandon\DixonCruzBlandon\obj\Debug\DixonCruzBlandon.Arboles.resources
