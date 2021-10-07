@@ -21,6 +21,7 @@ namespace DixonCruzBlandon
         bool encontrado = false;
 
         //Sobrecarga de constructores
+        //cuando el construcctor este lleno
         public Arbol()
         {
             raiz = null;
